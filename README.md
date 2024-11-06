@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tejas!
 
-🌐 **Tech Explorer | Graphic Designer | Research Enthusiast | Dual Degree Student**
+🌐 **Tech Explorer | Graphic Designer | Research Enthusiast | Software Developer**
 
 Welcome to my GitHub! I'm a passionate tech enthusiast with a rich mix of experiences, from graphic design and AI to data science and IoT. My journey has been hands-on, spanning across multiple domains, including **Blockchain Technology, Cyber Security, Machine Learning, and Artificial Intelligence**. Currently, I'm delving deeper into the realms of **Crop Identification with Satellite Imagery** and **Emotion Recognition** as part of my **CodeAlpha internship**.
 
@@ -43,9 +43,9 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a rich mix of experi
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/TejasVijaya74/&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/TejasVijaya74/&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/TejasVijaya74/&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasVijaya74&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasVijaya74&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVijaya74&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
