@@ -85,7 +85,7 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a rich mix of experi
 
 ### 📫 **Get in Touch!**
 - **LinkedIn:** [Tejas's LinkedIn](https://www.linkedin.com/in/tejas-vijaya74/)
-- **GitHub Pages Portfolio:** [Visit My Portfolio](https://TejasVijaya74.github.io/)
+- **GitHub Pages Portfolio:** [Visit My Portfolio](https://TejasVijaya74.github.io/Profile/)
 
 ---
 
