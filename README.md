@@ -1,46 +1,82 @@
-#### About Me
+<h1 align="center">Tejas</h1>
+<h3 align="center">Software Engineer · AI & Data Systems · VTU</h3>
 
-I am **Tejas**, an engineering student currently pursuing a **Bachelor of Engineering in Computer Science and Applications** at **Visvesvaraya Technological University**. I am passionate about technology and aim to combine theoretical knowledge with practical skills to contribute to the field of engineering.
-
----
-
-## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasVijaya74&show_icons=true&theme=radical&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TejasVijaya74&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVijaya74&layout=compact&theme=radical)
-
-- 🔭 I’m currently working on **Open-source project**  
-- 🌱 I’m currently learning **Advanced software applications**  
-- 👯 I’m looking to collaborate on **Developing Software Applications**  
-- 💬 Ask me about **Python, Data Science, and Software Development**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tejas-vijaya74/)  
-- 😄 Fun fact: I’m always up for a tech talk and a challenging coding problem!
-
-<!--
-**TejasVijaya74/TejasVijaya74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%7C+Data+Science+%7C+Software+Systems;Focused+on+Scalable+Engineering" />
+</p>
 
 ---
 
-### 📫 **Get in Touch!**
-- **LinkedIn:** [Tejas's LinkedIn](https://www.linkedin.com/in/tejas-vijaya74/)
-- **GitHub Pages Portfolio:** [Visit My Portfolio](https://TejasVijaya74.github.io/Profile/)
+## Professional Summary
+
+Computer Science & Applications engineering student at  
+**Visvesvaraya Technological University (VTU)** with strong focus on:
+
+- Artificial Intelligence & Machine Learning
+- Data-driven software systems
+- Clean architecture and scalable engineering
+
+I approach software development as **system design**, not just coding.
 
 ---
 
-**Let’s Connect, Learn, and Build!** 🚀
+## Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,nodejs,mongodb,mysql,git,linux&perline=6" />
+</p>
+
+---
+
+## Engineering Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=TejasVijaya74&show_icons=true&theme=github_dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TejasVijaya74&theme=github-dark"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVijaya74&layout=compact&theme=github_dark"
+    height="150"
+  />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasVijaya74&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Engineering Focus Areas
+
+- AI & ML model development
+- Data pipelines & analytics
+- Software architecture & optimization
+- Open-source and academic-industry projects
+
+> *Engineering is about clarity, reliability, and intent.*
+
+---
+
+## Contact & Presence
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tejas-vijaya74/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://TejasVijaya74.github.io/Profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Engineering_Work-111111?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
