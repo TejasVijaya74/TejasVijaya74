@@ -1,8 +1,10 @@
-<h1 align="center">Tejas</h1>
+<h1 align="center">Tejas V</h1>
 <h3 align="center">Software Engineer · AI & Data Systems · VTU</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%7C+Data+Science+%7C+Software+Systems;Focused+on+Scalable+Engineering" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI+%7C+Data+Science+%7C+Software+Systems;Focused+on+Scalable+Engineering"
+  />
 </p>
 
 ---
