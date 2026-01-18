@@ -32,19 +32,8 @@ I approach software development as **system design**, not just coding.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TejasVijaya74&show_icons=true&theme=github_dark"
-    height="165"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=TejasVijaya74&theme=github-dark"
     height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVijaya74&layout=compact&theme=github_dark"
-    height="150"
   />
 </p>
 
@@ -71,12 +60,17 @@ I approach software development as **system design**, not just coding.
 
 ## Contact & Presence
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tejas-vijaya74/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://TejasVijaya74.github.io/Profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Engineering_Work-111111?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-vijaya74/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TejasVijaya74)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishigowda71826@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-2C3E50?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://TejasVijaya74.github.io/Profile/)
+
+</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=120&section=footer" />
