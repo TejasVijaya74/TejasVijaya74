@@ -50,6 +50,16 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
+
+---
+ 
+## System Metrics & Repository Analytics
+ 
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TejasVijaya74&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 ## Featured Real-World Products
