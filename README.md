@@ -3,11 +3,14 @@
 ### Associate Platform Engineer | Cloud, Infrastructure & Systems
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/tejas-vijaya74/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:i.tejas@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/TejasVijaya74">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -52,11 +55,11 @@
 ## System Metrics & Repository Analytics
 
 <p align="left">
-  <a href="https://github.com/tejasv">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=tejasv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tejas's GitHub Stats" />
+  <a href="https://github.com/TejasVijaya74">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TejasVijaya74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tejas's GitHub Stats" />
   </a>
-  <a href="https://github.com/tejasv">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/TejasVijaya74">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVijaya74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
@@ -64,12 +67,12 @@
 
 ## Featured Real-World Products
 
-### [Distributed Data Pipeline Engine](https://github.com/tejasv/your-repo)
+### [Distributed Data Pipeline Engine](https://github.com/TejasVijaya74/your-repo)
 - Built a high-throughput, decoupled event processing architecture utilizing **Apache Kafka**
 - Implemented persistent datastores using structured **MySQL** schemas designed for low latency
 - Configured real-world system observability with **Grafana** dashboards to trace pipeline delays
 
-### [Cloud Native Multi-Tenant Cluster](https://github.com/tejasv/your-repo)
+### [Cloud Native Multi-Tenant Cluster](https://github.com/TejasVijaya74/your-repo)
 - Automated microservices deployment configurations inside **Docker** containers and isolated environments
 - Structured horizontal pod autoscaling rules natively using **Kubernetes** manifests
 - Deployed core services across major **Hyperscalers** while hardening underlying **Linux** network layers
@@ -79,4 +82,8 @@
 ## Let's Connect
 
 - Ask me about: **Linux kernel parameters, container runtimes, system networks, and data streaming**
-- Reach out: Drop an issue on my repositories or ping me via LinkedIn
+- Reach out:
+  - Email: i.tejas@yahoo.com
+  - LinkedIn: https://linkedin.com/in/tejas-vijaya74/
+  - GitHub: https://github.com/TejasVijaya74
+
