@@ -52,19 +52,6 @@
 
 ---
 
-## System Metrics & Repository Analytics
-
-<p align="left">
-  <a href="https://github.com/TejasVijaya74">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TejasVijaya74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tejas's GitHub Stats" />
-  </a>
-  <a href="https://github.com/TejasVijaya74">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasVijaya74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ## Featured Real-World Products
 
 ### [Distributed Data Pipeline Engine](https://github.com/TejasVijaya74/your-repo)
